@@ -51,7 +51,13 @@ const PrivacyPolicy = () => {
                 <li>First name and last name</li>
                 <li>Phone number</li>
                 <li>Address, State, Province, ZIP/Postal code, City</li>
-                <li>Usage Data</li>
+            </ul>
+            <h4>Why We Collect Personal Data</h4>
+            <ul>
+                <li><strong>Email address:</strong> To communicate with you, send updates, and provide support.</li>
+                <li><strong>First name and last name:</strong> To personalize your experience and for identification purposes.</li>
+                <li><strong>Phone number:</strong> To contact you for urgent matters, provide support, and verify your identity.</li>
+                <li><strong>Address, State, Province, ZIP/Postal code, City:</strong> To provide localized services, send physical goods, and for billing purposes.</li>
             </ul>
 
             <h4>Usage Data</h4>
@@ -71,6 +77,13 @@ const PrivacyPolicy = () => {
                 We may also collect information that Your browser sends whenever You visit our Service or when You access the
                 Service by or through a mobile device.
             </p>
+            <h4>Why We Collect Usage Data</h4>
+            <ul>
+                <li><strong>IP address:</strong> To identify and mitigate malicious activities and for geographical analytics.</li>
+                <li><strong>Browser type and version:</strong> To ensure compatibility and optimize user experience.</li>
+                <li><strong>Pages visited, time and date, time spent:</strong> To analyze user behavior, improve content and navigation.</li>
+                <li><strong>Device identifiers and diagnostic data:</strong> To diagnose technical issues and enhance service performance.</li>
+            </ul>
 
             <h3>Information from Third-Party Social Media Services</h3>
             <p>
